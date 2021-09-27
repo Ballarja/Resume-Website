@@ -13,5 +13,5 @@ jobs:
       with:
         server: ftp.jamesballard.tech
         username: jamesard
-        password: ${{ secrets.SOREN_IS_A }}
+        password: ${{ secrets.password }}
         port: 990
