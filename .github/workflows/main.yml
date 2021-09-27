@@ -13,5 +13,5 @@ jobs:
       with:
         server: ftp.samkirkland.com
         username: myFtpUserName
-        password: ${{ secrets.SOREN_IS_A }}
+        password: ${{ secrets.CAT }}
 
