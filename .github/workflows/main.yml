@@ -16,3 +16,4 @@ jobs:
         password: ${{ secrets.password }}
         server-dir: public_html/
         protocol: ftp
+        exclude: /.github/**
